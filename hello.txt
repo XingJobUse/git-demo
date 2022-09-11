@@ -6,3 +6,4 @@ lhx02
 github modify   123
 github modify   456
 github modify   789
+ssh push
